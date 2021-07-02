@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = laurentluc7@gmail.com
+	name = luc laurent
